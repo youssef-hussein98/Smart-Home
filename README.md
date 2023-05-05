@@ -2,7 +2,7 @@
 ## Table of Contents
 
   1. [Introduction](#Introduction)
-  2.[Components](#Components)
+  2. [Components](#Components)
   3. [System Diagram](#System_Diagram)
   4. [Activity Diagram](#Activity_Diagram)
       1. [Normal system activity](#Normal_system_activity)
